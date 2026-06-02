@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mr-hothead/fem-blog-preview-card)
-- Live Site URL: [Add live site URL here](mr-hothead.github.io/fem-blog-preview-card)
+- Solution URL: [GitHub repo](https://github.com/mr-hothead/fem-blog-preview-card)
+- Live Site URL: [GitHub hosted page](mr-hothead.github.io/fem-blog-preview-card)
 
 ## My process
 
