@@ -50,5 +50,5 @@ Principles of designing a blog post card, along with using flexbox to set the po
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Mr-HotHead)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mr-HotHead)
+- GitHub - [Mr-HotHead](https://github.com/Mr-HotHead)
+- Frontend Mentor - [@mr-hothead](https://www.frontendmentor.io/profile/Mr-HotHead)
